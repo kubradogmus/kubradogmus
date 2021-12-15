@@ -19,6 +19,8 @@ resilient, tenacious, adaptable, collaborative ,passionate for learning , eager 
 - ⚡ Languages: Python,C#
 -->
 ⭐️ From [Kübra Doğmuş](https://github.com/kubradogmus)
+
+
 [![Kubra's GitHub stats](https://github-readme-stats.vercel.app/api?username=kubradogmus)](https://github.com/kubradogmus/github-readme-stats)
 
 
