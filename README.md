@@ -1,9 +1,5 @@
-### Hi there 👋
-
-<!--
-**kubradogmus/kubradogmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# Kübra Doğmuş
+[Linkedin](https://www.linkedin.com/in/kubradogmus/)
 
 - 🔭 I’m currently working on AWS/DevOps
 - 🌱 I’m currently learning Quantum Information Technologies
